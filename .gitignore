@@ -1,0 +1,9 @@
+# Editor
+.vscode
+
+# Python
+dist
+__pycache__
+
+# Image
+*.svg
